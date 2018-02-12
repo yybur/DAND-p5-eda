@@ -1,0 +1,15 @@
+Reference:
+1. [Introducing R ](http://data.princeton.edu/R/gettingStarted.html)
+2. [数据分析？从一开始你就错了！探索性数据分析套路解读](https://zhuanlan.zhihu.com/p/29364225)
+3. [Red and White Wine Quality by Daria Alekseeva](https://rstudio-pubs-static.s3.amazonaws.com/57835_c4ace81da9dc45438ad0c286bcbb4224.html)
+4. [Red Wine Composition](http://waterhouse.ucdavis.edu/whats-in-wine/red-wine-composition)
+5. [酸酸好滋味——详解高酸/低酸葡萄酒](http://www.wine-world.com/culture/pj/20131204171957985)
+6. [从低到高，葡萄酒的酒精含量你知道多少？](http://www.wine-world.com/culture/pj/20151125093514134)
+7. [Chloride concentration in red wines: influence of terroir and grape type](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-20612015000100095)
+8. [When a wine is salty, and why it shouldn’t be](http://wineoscope.com/2015/10/02/when-a-wine-is-salty-and-why-it-shouldnt-be/)
+https://stackoverflow.com/questions/29278153/plotting-with-ggplot2-error-discrete-value-supplied-to-continuous-scale
+9. [Plotting with ggplot2: Error: Discrete value supplied to continuous scale](https://stackoverflow.com/questions/29278153/plotting-with-ggplot2-error-discrete-value-supplied-to-continuous-scale)
+10. [Red wine quality Data Analysis](https://rpubs.com/jadianes/red-wine-quality-analysis)
+11. [Red Wine Quality Analysis](https://rpubs.com/szon0111/P4)
+12. [Predicting Red Wine Quality: Exploratory Data Analysis](https://rpubs.com/jeknov/redwine)
+13. [Red and White Wine Analysis](https://rpubs.com/ian_xxiao/98369)
